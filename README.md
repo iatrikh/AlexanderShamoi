@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AlexanderShamoi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning C# and Python
+- 🌱 I’m currently Selenium and Python
